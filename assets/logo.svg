@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2cc3d6"/>
+      <stop offset="1" stop-color="#6b6bf7"/>
+    </linearGradient>
+  </defs>
+  <rect rx="28" width="240" height="240" fill="#071226"/>
+  <g transform="translate(20,20)" fill="none" stroke="url(#g1)" stroke-width="8">
+    <circle cx="100" cy="100" r="60" opacity="0.95"/>
+    <path d="M40 100h120M100 40v120" stroke-linecap="round"/>
+  </g>
+  <text x="50%" y="212" font-family="Inter, Helvetica, Arial" font-size="20" fill="#cfeff6" text-anchor="middle">GlobyteHub</text>
+</svg>
